@@ -1,0 +1,8 @@
+/* Define the styles for both dark and light themes */
+:root {
+  --bg-mode-body: 0.2s;
+}
+
+* {
+  transition: var(--bg-mode-body)
+}
